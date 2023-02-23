@@ -1,0 +1,48 @@
+body{
+    width: 960px;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    background: yellow;
+}
+section{
+    height: auto;
+    width: 75%;
+    background: green;
+    float: left;
+}
+.form{
+    margin: 10px;
+    height: auto;
+    background-color: white;
+    left: 10px;
+}
+.text{
+    margin-bottom: 10px;
+    background: gray;
+    padding: 0px;
+}
+
+p{
+}
+aside{
+    width: 25%;
+    height: 1112.85px;
+    background: tan;
+    float: left;
+}
+/* article {
+    height: 200px;
+    width: 75%;
+    background: green;
+} */
+footer{
+    height: 100px;
+    background: purple;
+    clear: both;
+}
